@@ -1,0 +1,10 @@
+com/example/CRManagement/InteractionController.class
+com/example/CRManagement/InteractionRepository.class
+com/example/CRManagement/CustomerController.class
+com/example/CRManagement/CustomerService.class
+com/example/CRManagement/CustomerRepository.class
+com/example/CRManagement/Interaction.class
+com/example/CRManagement/Customer.class
+com/example/CRManagement/CrManagementApplication.class
+com/example/CRManagement/InteractionService.class
+com/example/CRManagement/MyClass.class
